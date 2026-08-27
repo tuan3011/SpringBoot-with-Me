@@ -1,7 +1,7 @@
 # Day 01: Moving Beyond System.out.println — Mastering the Debugger & Java Memory
 
 - **Difficulty:** Basic
-- **Time:** 1.5 hours
+- **Time:** 1 hour
 
 ### 1. Learning Objectives
 - Learn how to use the IDE Debugger (Breakpoint, Step Over/Into/Out, Resume).
