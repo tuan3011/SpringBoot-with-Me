@@ -59,18 +59,11 @@ This repository is a laboratory for experiments and learning. Real backend produ
 
 `Learning Concept → Experiment → Real Project → Real Problem → Debugging`
 
-### Projects
-
-| Project | Focus | Status |
-| :--- | :--- | :--- |
-| `SpringBoot-with-Me` | Learning, Internals, Experiments | In Progress |
-| *Future Product Projects* | Real-world application of concepts | Planned |
-
 ## DSA Companion
 
 Software engineering requires both systems knowledge and algorithmic problem-solving. This backend journey runs parallel to my algorithmic practice:
 
-> **365 Days LeetCoding with Cùi** — Focuses strictly on Data Structures and Algorithms.
+> **[365 Days LeetCoding with Cùi](https://github.com/tuan3011/365-Days-of-LeetCoding-with-Me)** — Focuses strictly on Data Structures and Algorithms.
 
 The two projects serve complementary purposes and do not interfere with one another.
 
