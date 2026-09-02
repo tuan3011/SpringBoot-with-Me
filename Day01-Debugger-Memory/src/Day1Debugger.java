@@ -1,5 +1,3 @@
-package tuanvt.day1;
-
 public class Day1Debugger {
 
     public static void main(String[] args) {
