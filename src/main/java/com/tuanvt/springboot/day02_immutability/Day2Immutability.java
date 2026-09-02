@@ -1,3 +1,5 @@
+package com.tuanvt.springboot.day02_immutability;
+
 public class Day2Immutability {
     public static void main(String[] args) {
         // Kịch bản: Em lấy dữ liệu cấu hình thanh toán từ DB lên

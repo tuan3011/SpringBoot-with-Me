@@ -1,3 +1,5 @@
+package com.tuanvt.springboot.day01_debugger;
+
 public class Day1Debugger {
 
     public static void main(String[] args) {
