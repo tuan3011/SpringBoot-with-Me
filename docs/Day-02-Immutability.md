@@ -1,7 +1,7 @@
 # Day 02: Immutability & The Record Feature
 
 - **Difficulty:** Intermediate
-- **Time:** 1.5 hours
+- **Time:** 30 minutes
 
 ### 1. Learning Objectives
 - Understand the concept of Immutability.
