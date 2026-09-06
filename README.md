@@ -40,7 +40,7 @@ The journey is structured into progressive modules. Topics will be tackled one l
 ## Current Progress
 
 - [x] **Day 01:** Mastering the Debugger & Java Memory Model (Pass-by-value)
-- [ ] **Day 02:** Immutability & Thread-safety
+- [x] **Day 02:** Immutability & Thread-safety
 - [ ] **Day 03:** *(Upcoming...)*
 
 ## The Failure Lab
